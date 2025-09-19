@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Luz María Crisóstomo Delgado  
 
-<!--
-**LM-Cris/LM-Cris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Ingeniería de Sistemas Computacionales**  
+💻 Apasionada por el **desarrollo web Frontend** y el aprendizaje constante  
 
-Here are some ideas to get you started:
+<img align="right" width="300" src="https://user-images.githubusercontent.com/68967379/167231448-5d555478-5547-4d7f-b2df-137dfa56cd51.png" alt="banner">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí  
+Soy **desarrolladora web en formación**, enfocada en crear interfaces atractivas y funcionales.  
+Me motiva transformar ideas en proyectos digitales que aporten valor a los usuarios.  
+
+- 🌱 Actualmente aprendiendo: **React, Tailwind, JavaScript avanzado**  
+- 🎯 Objetivo: Crecer como **Frontend Developer** y contribuir en proyectos colaborativos  
+- ✨ Inspirada por referentes como [MoureDev](https://github.com/mouredev) y [SoyDalto](https://github.com/soydalto)  
+
+---
+
+## 🛠️ Tecnologías y Herramientas  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+---
+
+## 📌 Proyectos Destacados  
+- 🎨 **Landing Page Responsive** – Diseño adaptable a dispositivos móviles  
+- 🖥️ **Portafolio Personal** – Mi espacio digital para mostrar proyectos y contacto  
+- 📑 **Clon de Google** – Ejercicio práctico de maquetación  
+
+*(Pronto más proyectos subidos 🚀)*  
+
+---
+
+## 🌍 Encuéntrame en la web  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
+- 📂 [GitHub](https://github.com/tuusuario)  
+- 🎨 [CodePen](https://codepen.io/tuusuario)  
+
+---
+
+✨ *“El código es mi herramienta para transformar ideas en realidades digitales”*  
