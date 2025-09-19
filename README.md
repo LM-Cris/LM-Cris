@@ -3,15 +3,13 @@
 🎓 Estudiante de **Ingeniería de Sistemas Computacionales**  
 💻 Apasionada por el **desarrollo web Frontend** y el aprendizaje constante  
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/68967379/167231448-5d555478-5547-4d7f-b2df-137dfa56cd51.png" alt="banner">
-
 ---
 
 ## 🚀 Sobre mí  
 Soy **desarrolladora web en formación**, enfocada en crear interfaces atractivas y funcionales.  
 Me motiva transformar ideas en proyectos digitales que aporten valor a los usuarios.  
 
-- 🌱 Actualmente aprendiendo: **React, Tailwind, JavaScript avanzado**  
+- 🌱 Actualmente aprendiendo: **React, Tailwind,Bootstrap,JavaScript intermedio,**  
 - 🎯 Objetivo: Crecer como **Frontend Developer** y contribuir en proyectos colaborativos  
 - ✨ Inspirada por referentes como [MoureDev](https://github.com/mouredev) y [SoyDalto](https://github.com/soydalto)  
 
@@ -23,7 +21,7 @@ Me motiva transformar ideas en proyectos digitales que aporten valor a los usuar
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
@@ -40,8 +38,6 @@ Me motiva transformar ideas en proyectos digitales que aporten valor a los usuar
 ## 🌍 Encuéntrame en la web  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
 - 📂 [GitHub](https://github.com/tuusuario)  
-- 🎨 [CodePen](https://codepen.io/tuusuario)  
-
 ---
 
 ✨ *“El código es mi herramienta para transformar ideas en realidades digitales”*  
